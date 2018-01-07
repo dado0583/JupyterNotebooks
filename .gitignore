@@ -2,3 +2,4 @@
 .DS_Store
 jupyterhub*
 Zillow/otherdata/*csv
+Zillow/*
